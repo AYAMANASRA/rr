@@ -4,4 +4,6 @@
   Log.Message(x+y)
   Log.Message("adding")
   Log.Message("second commit")
+  Log.message("yarab")
+  
   
