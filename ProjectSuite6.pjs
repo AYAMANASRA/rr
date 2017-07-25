@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{059C371D-E53D-4432-B5E7-5ACBDEA7B8C0}">
+	<children>
+		<child name="testnew" key="{A838C77B-F99D-40B8-BAE3-8064B06E1C93}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="testnew\testnew.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{EF88AF5D-B223-43C0-B52E-4A098E8ACC08}">
+		<children>
+			<testItem key="{A838C77B-F99D-40B8-BAE3-8064B06E1C93}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{71B78E00-E17C-4EA3-A613-708351B5EC32}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{B8A5314D-D151-4027-8FAC-BE2045D11605}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
